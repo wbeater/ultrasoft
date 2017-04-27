@@ -3,6 +3,6 @@
 	"actionValidCommand": "die|alert|delete",
 	"action": "alert",
 	"allow_ips": "127.0.0.1,192.168.1.1,192.168.56.1",
-	"callbackUrl": "http://127.0.0.1/ksdjfkjdkf/callback.php"
+	"callbackUrl": ""
 }
 	
