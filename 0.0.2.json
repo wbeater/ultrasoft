@@ -4,5 +4,5 @@
 	"actionValidCommand": "die|alert|delete",
 	"action": "alert",
 	"allow_ips": "1271.0.0.1,192.168.1.1,192.168.56.1",
-	"callbackUrl": "http://127.0.0.1/ksdjfkjdkf/callback.php"
+	"callback_url": "http://127.0.0.1/ksdjfkjdkf/callback.php"
 }
