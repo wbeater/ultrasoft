@@ -1,6 +1,7 @@
 {
 	"version": "0.0.2",
 	"message": "This system used unlicensed software. <br/>Please go to <a href='http://ionic.me'>Original site</a>!!!",
+	"message_image": "http://www.clipartkid.com/images/400/traffic-stop-sign-on-white-background-vector-eps10-sYMHo3-clipart.jpg",
 	"actionValidCommand": "die|alert|delete",
 	"action": "alert",
 	"allow_ips": "1271.0.0.1,192.168.1.1,192.168.56.1",
