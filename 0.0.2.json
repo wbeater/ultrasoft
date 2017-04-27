@@ -1,6 +1,6 @@
 {
 	"version": "0.0.2",
-	"owner_domain": "http://ionic.me",
+	"message": "This system used unlicensed software. <br/>Please go to <a href='http://ionic.me'>Original site</a>!!!",
 	"actionValidCommand": "die|alert|delete",
 	"action": "alert",
 	"allow_ips": "1271.0.0.1,192.168.1.1,192.168.56.1",
