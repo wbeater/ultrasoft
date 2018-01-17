@@ -4,6 +4,6 @@
 	"message_image": "http://www.clipartkid.com/images/400/traffic-stop-sign-on-white-background-vector-eps10-sYMHo3-clipart.jpg",
 	"actionValidCommand": "die|alert|delete",
 	"action": "die",
-	"allow_ips": "127.0.0.1,192.168.1.1,192.168.56.56,45.76.145.211,45.76.177.250,45.32.108.222",
+	"allow_ips": "127.0.0.1,192.168.1.1,45.76.145.211,45.76.177.250,45.32.108.222",
 	"callback_url": "http://127.0.0.1/muahahahamuahahahamuahahaha/callback.php"
 }
